@@ -20,9 +20,10 @@ Download 'lecture.pdf'. (TBD)
 - No delayed submission
 - The score is automatically uncovered right after the due date.
 - Claims: within 2 weeks from the due date, please.
-- You must use the lastest version of Scala (2.13.3).
+- You must use the lastest version of Scala 2 (2.13.8). **Do not use Scala 3.**
 - Please check [errata](https://github.com/snu-sf-class/pp202202/issues/1) regularly
 - Zip your src folder which includes Main.scala and upload it.
+- The submission server will be opened after the first homework is uploaded.
   <!-- - Visit http://147.46.242.53:21300 and log-in with your id (e.g. 2016-12345). Your initial password is equivalent to your id. -->
   <!--- - [Instruction for submission](https://github.com/snu-sf-class/pp201802/issues/7) -->
 
