@@ -37,7 +37,7 @@ Download 'lecture.pdf'. (TBD)
 - Ask questions in the [GitHub repository issue tracker](https://github.com/snu-sf-class/pp202202/issues).
   - When you post a piece of source code, use ["fenced code blocks" feature](https://help.github.com/articles/creating-and-highlighting-code-blocks/)
     - Like this:
-    ```
+    ```scala
     def foo(x:Int) = x + 3
     foo(10)
     ```
