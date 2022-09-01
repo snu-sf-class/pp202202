@@ -4,8 +4,6 @@
 - TA: [Ho Young Jhoo](https://sf.snu.ac.kr/hoyoung.jhoo/), [Dongjae Lee](http://sf.snu.ac.kr/dongjae.lee),
   - Office: Bldg 302 Rm 312-2
   - Email address: pp@sf.snu.ac.kr
-- Additional *Unofficial* Resource: [**Link**](https://www.notion.so/Principles-of-Programming-ea6bd8a622bd4064a59a0a81c51f53a8)
-  - It will be updated after each class. I will write some additional information about Scala and concepts of functional programming.
 
 ## Announcements
 
