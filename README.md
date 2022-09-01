@@ -9,10 +9,10 @@
 
 ## Lecture slide updates
 
-Download 'lecture.pdf'. (TBD)
+Download 'lecture.pdf'.
 
-| No. | Published |
-| --- | --------- |
+You can see the history of the lecture slide from [commit logs](https://github.com/snu-sf-class/pp202202/commits/main)
+
 
 ## Assignments
 
