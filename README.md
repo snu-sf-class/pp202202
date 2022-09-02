@@ -7,6 +7,8 @@
 
 ## Announcements
 
+Please see [Issue tracker](https://github.com/snu-sf-class/pp202202/issues)
+
 ## Lecture slide updates
 
 Download 'lecture.pdf'.
