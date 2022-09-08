@@ -47,7 +47,7 @@ foo(10)
 ### Scala
 
 - **We will not use Scala 3.**
-- Latest version: [2.13.8](https://www.scala-lang.org/)
+- Latest version: [2.12.16](https://www.scala-lang.org/)
 - Use IDEs to write a Scala program.
   - IntelliJ IDEA, Eclipse, Emacs, etc
   - Reading 'Scala setting.pdf' will be helpful.
