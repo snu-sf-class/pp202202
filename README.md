@@ -7,6 +7,8 @@
 
 ## Announcements
 
+* Sep 22: [HW1](https://github.com/snu-sf-class/pp202202-private/assignments/hw1) is out. (Due date: 10/2 23:59)
+
 Please see [Issue tracker](https://github.com/snu-sf-class/pp202202/issues)
 
 ## Lecture slide updates
@@ -18,6 +20,8 @@ You can see the history of the lecture slide from [commit logs](https://github.c
 
 ## Assignments
 
+[**Homework Repo**](https://github.com/snu-sf-class/pp202202-private)
+
 - Download skeleton code and replace `???` with your code
 - No delayed submission
 - The score is automatically uncovered right after the due date.
@@ -25,12 +29,13 @@ You can see the history of the lecture slide from [commit logs](https://github.c
 - You must use the lastest version of Scala 2 (2.13.8). **Do not use Scala 3.**
 - Please check [errata](https://github.com/snu-sf-class/pp202202/issues/1) regularly
 - Zip your src folder which includes Main.scala and upload it.
-- The submission server will be opened after the first homework is uploaded.
+- The submission server will be opened when it is ready.
   <!-- - Visit http://147.46.242.53:21300 and log-in with your id (e.g. 2016-12345). Your initial password is equivalent to your id. -->
   <!--- - [Instruction for submission](https://github.com/snu-sf-class/pp201802/issues/7) -->
 
 | No. | Published | Due | Description |
-| --- | --------- | --- | ----------- |
+| --- | ---------- | --------------- | ------------------------- |
+| 1   | 2022/09/22 | 2022/10/2 23:59 | Basic Recursive functions |
 
 ## Must Read
 
