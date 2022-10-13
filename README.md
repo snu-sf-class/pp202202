@@ -9,6 +9,7 @@
 
 * Sep 22: [HW1](https://github.com/snu-sf-class/pp202202-private/tree/main/assignments/hw1) is out. (Due date: 10/2 23:59)
 * Oct 6: midterm exam announced
+* Oct 13: [HW2](https://github.com/snu-sf-class/pp202202-private/tree/main/assignments/hw2) is out. (Due date: 10/27 23:59)
 
 Please see [Issue tracker](https://github.com/snu-sf-class/pp202202/issues)
 
