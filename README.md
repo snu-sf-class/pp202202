@@ -37,6 +37,7 @@ You can see the history of the lecture slide from [commit logs](https://github.c
 | No. | Published | Due | Description |
 | --- | ---------- | --------------- | ------------------------- |
 | 1   | 2022/09/22 | 2022/10/2 23:59 | Basic Recursive functions |
+| 2   | 2022/10/13 | 2022/10/27 23:59 | Algebraic Data Types |
 
 ## Must Read
 
