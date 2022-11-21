@@ -11,7 +11,7 @@
 * Oct 6: midterm exam announced
 * Oct 13: [HW2](https://github.com/snu-sf-class/pp202202-private/tree/main/assignments/hw2) is out. (Due date: 10/27 23:59)
 * Nov 11: [HW3](https://github.com/snu-sf-class/pp202202-private/tree/main/assignments/hw3) is out. (Due date: 11/27 23:59)
-* 
+* Nov 21: [HW4](https://github.com/snu-sf-class/pp202202-private/tree/main/assignments/hw4) is out. (Due date: 12/2 23:59)
 Please see [Issue tracker](https://github.com/snu-sf-class/pp202202/issues)
 
 ## Lecture slide updates
@@ -39,7 +39,8 @@ You can see the history of the lecture slide from [commit logs](https://github.c
 | --- | ---------- | --------------- | ------------------------- |
 | 1   | 2022/09/22 | 2022/10/2 23:59 | Basic Recursive functions |
 | 2   | 2022/10/13 | 2022/10/27 23:59 | Algebraic Data Types |
-| 2   | 2022/11/11 | 2022/11/27 23:59 | OOP |
+| 3   | 2022/11/11 | 2022/11/27 23:59 | OOP |
+| 4   | 2022/11/21 | 2022/12/2 23:59 | Typeclass |
 
 ## Must Read
 
