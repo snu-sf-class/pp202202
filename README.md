@@ -12,6 +12,7 @@
 * Oct 13: [HW2](https://github.com/snu-sf-class/pp202202-private/tree/main/assignments/hw2) is out. (Due date: 10/27 23:59)
 * Nov 11: [HW3](https://github.com/snu-sf-class/pp202202-private/tree/main/assignments/hw3) is out. (Due date: 11/27 23:59)
 * Nov 21: [HW4](https://github.com/snu-sf-class/pp202202-private/tree/main/assignments/hw4) is out. (Due date: 12/2 23:59)
+* Dec 1: [Project](https://github.com/snu-sf-class/pp202202-private/tree/main/project) is out. (Due date: 12/21 23:59)
 
 Please see [Issue tracker](https://github.com/snu-sf-class/pp202202/issues)
 
@@ -42,6 +43,7 @@ You can see the history of the lecture slide from [commit logs](https://github.c
 | 2   | 2022/10/13 | 2022/10/27 23:59 | Algebraic Data Types |
 | 3   | 2022/11/11 | 2022/11/27 23:59 | OOP |
 | 4   | 2022/11/21 | 2022/12/2 23:59 | Typeclass |
+| P   | 2022/12/21 | 2022/12/21 23:59 | Project |
 
 ## Must Read
 
