@@ -43,7 +43,7 @@ You can see the history of the lecture slide from [commit logs](https://github.c
 | 2   | 2022/10/13 | 2022/10/27 23:59 | Algebraic Data Types |
 | 3   | 2022/11/11 | 2022/11/27 23:59 | OOP |
 | 4   | 2022/11/21 | 2022/12/2 23:59 | Typeclass |
-| P   | 2022/12/21 | 2022/12/21 23:59 | Project |
+| P   | 2022/12/1 | 2022/12/21 23:59 | Project |
 
 ## Must Read
 
